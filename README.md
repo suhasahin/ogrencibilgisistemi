@@ -1,4 +1,4 @@
-# ogrencibilgisistemi
+# ogrenci bilgi sistemi
 
 
             Öğrenci Not Sistemi
