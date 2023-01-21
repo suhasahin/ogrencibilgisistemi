@@ -22,7 +22,7 @@ public class Main {
         s2.addBulkExamNote(50,30,70,80,80,80);
         s2.isPass();
 
-        Student s3 = new Student("DENEME OGRENCI","777", "4", tarih,fizik,biyo);
+        Student s3 = new Student("Ahmet Caliskan","777", "4", tarih,fizik,biyo);
         s3.addBulkExamNote(100,50,80,20,60,90);
         s3.isPass();
 
